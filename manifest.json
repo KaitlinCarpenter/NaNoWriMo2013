@@ -1,6 +1,6 @@
 {
-    cover_image: "test",
-    pages: {
+    "cover_image": "test",
+    "pages": {
         "preface": "preface.md",
         "chapter1": "chapter1.md",
         "chapter2": "chapter2.md",
